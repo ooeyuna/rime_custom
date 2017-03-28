@@ -1,2 +1,4 @@
 patch:
   'switches/@1/reset': 0
+  translator/enable_user_dict: true
+  translator/enable_encoder: true
