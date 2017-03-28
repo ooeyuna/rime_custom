@@ -1,0 +1,5 @@
+patch:
+  us_keyboard_layout: true
+  menu/page_size: 9
+  translator/enable_user_dict: false
+  'punctuator/import_preset': alternative

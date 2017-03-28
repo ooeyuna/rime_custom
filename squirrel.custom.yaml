@@ -1,0 +1,4 @@
+patch:
+  'style/font_point': 15
+  'style/horizontal': true
+  'style/color_scheme': clean_white
